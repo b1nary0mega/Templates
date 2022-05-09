@@ -1,5 +1,5 @@
 #!/usr/bin/env python -tt
-'''TEMPALTE for doing python shit'''
+'''TEMPALTE'''
 
 import sys
 
