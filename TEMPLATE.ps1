@@ -2,11 +2,11 @@
 NAME: TEMPLATE.ps1
 AUTHOR: Jimmi Aylesworth
 BORN: 20190920
-MODIFIED: 20190920
+MODIFIED: 20220509
 LEGAL: Public domain, no rights reserved.
 
 DESCRIPTION:
-TEMPALTE for powershell
+TEMPALTE
 #>
 
 function Invoke-Template{
